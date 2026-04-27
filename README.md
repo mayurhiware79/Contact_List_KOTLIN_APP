@@ -22,7 +22,7 @@ This project is ideal for beginners who want to understand how real Android apps
 
 | Contact List Screen                          | Add Contact Screen                          | Contact Detail Screen                            |
 | -------------------------------------------- | ------------------------------------------- | ------------------------------------------------ |
-| ![Contact List](screenshots/main_screen.png) | ![Add Contact](screenshots/add_contact.png) | ![Contact Detail](screenshots/detail_screen.png) |
+| ![Contact List](/main_screen.png) | ![Add Contact](/add_contact.png) | ![Contact Detail](/detail_screen.png) |
 
 ---
 
