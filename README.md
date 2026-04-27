@@ -18,6 +18,15 @@ This project is ideal for beginners who want to understand how real Android apps
 * 🔔 Toast message confirmation on adding a contact
 
 ---
+## 📸 Screenshots
+
+| Contact List Screen                          | Add Contact Screen                          | Contact Detail Screen                            |
+| -------------------------------------------- | ------------------------------------------- | ------------------------------------------------ |
+| ![Contact List](screenshots/main_screen.png) | ![Add Contact](screenshots/add_contact.png) | ![Contact Detail](screenshots/detail_screen.png) |
+
+---
+
+
 
 ## 🧠 App Architecture
 
