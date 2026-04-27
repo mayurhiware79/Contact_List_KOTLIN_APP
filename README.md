@@ -1,4 +1,4 @@
-# 📱 Contact List App (Android - Kotlin)
+# 😉 Contact List App (Android - Kotlin)
 
 ## 🧾 Overview
 
